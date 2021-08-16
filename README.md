@@ -1,2 +1,2 @@
 # MarkNine-Movie_Picker
-Created with CodeSandbox
+A ReactJs App which tells you about some of my favourite movies accroding to the genre you pick.
